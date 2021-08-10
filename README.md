@@ -10,10 +10,10 @@ Associations between in vitro, in vivo and in silico cell classes in mouse prima
         ```
         
 * 2)  Install bmtk
-     ```
-     $ git clone https://github.com/yinawei/bmtk.git
-     $ pip install -e /Users/yinawei/Documents/Allen/bmtk-ateam
-    ```
+      ```
+       $ git clone https://github.com/yinawei/bmtk.git
+       $ pip install -e /Users/yinawei/Documents/Allen/bmtk-ateam
+      ```
      
 * 3)  Install NEURON
         ```
